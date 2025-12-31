@@ -169,7 +169,7 @@ const offices = [
                         <Input
                           name="name"
                           required
-                          placeholder="John Doe"
+                          placeholder="Enter your full name"
                           className="pl-10"
                         />
                       </div>
@@ -184,7 +184,7 @@ const offices = [
                           name="phone"
                           required
                           type="tel"
-                          placeholder="+91 98765 43210"
+                          placeholder=""
                           className="pl-10"
                         />
                       </div>
@@ -200,7 +200,7 @@ const offices = [
                       <Input
                         name="email"
                         type="email"
-                        placeholder="john@example.com (optional)"
+                        placeholder="Enter your email address"
                         className="pl-10"
                       />
                     </div>
